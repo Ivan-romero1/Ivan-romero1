@@ -1,16 +1,23 @@
-## Hi there 👋
+## Ivan Romero
 
+**Systems and Networks Engineering Enthusiast**
 <!--
-**Ivan-romero1/Ivan-romero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science student at Washington State University, I am passionate about systems programming, networking, and solving real-world problems through software and hardware. I enjoy challenging projects that force me to think deeply and learn continously. 
 
-Here are some ideas to get you started:
+Building Projects on: 
+ - C/C++
+ - Linux
+ - TCP/IP networking
+ - Operating Systems
+ - Data Structures
+ - Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Currently Working on: 
+  - Networks + Certification
+  - TCP/IP Networking Projects
+
+ Always learning and improving one project at a time.
+
+---
+
+### Languages and Tools
