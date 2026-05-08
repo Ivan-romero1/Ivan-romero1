@@ -13,8 +13,9 @@ Building Projects on:
  - Cybersecurity
 
  Currently Working on: 
-  - Networks + Certification
+  - CompTIA Network+ Certification
   - TCP/IP Networking Projects
+  - Some fun side projects!
 
  Always learning and improving one project at a time.
 
