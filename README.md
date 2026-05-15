@@ -2,7 +2,7 @@
 
 **Systems and Networks Engineering Enthusiast**
 
-**Computer Science student at Washington State University, I am passionate about systems programming, networking, and solving real-world problems through software and hardware. Lately, I have gained lots of interest in Computer Networking, specifically Network Security, Intrusion Detection Systems, Intrusion Prevention Systems and Demilitarized Zone Networks. I enjoy challenging projects that force me to think deeply and learn continously. 
+**Computer Science student at Washington State University, I am passionate about systems programming, networking, and solving real-world problems through software and hardware. Lately, I have gained lots of interest in Computer Networking, specifically Network Security, Intrusion Detection Systems, Intrusion Prevention Systems and Demilitarized Zone Networks. I enjoy challenging projects that help me to think deeply and learn continously. 
 
 Building Projects on: 
  - C/C++
