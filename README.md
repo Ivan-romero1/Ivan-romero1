@@ -32,3 +32,16 @@ Building Projects on:
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br />
+
+
+# Networking-Video-Explanations
+Here are some **unlisted** YouTube videos of me explaining networking concepts. The links to the videos are found below:
+
+Video Explanations: 
+
+## Interesting Concepts: 
+ #### 1.- [Load Balancing](https://youtu.be/YHYH6RkOdMo)
+ #### 2.- [FTP Simulation](https://youtu.be/s-pWb0tXgMg)
+
+## OSI Model: 
+#### 1.- [OSI Model Overview](https://youtu.be/WxlG01S5dds)
