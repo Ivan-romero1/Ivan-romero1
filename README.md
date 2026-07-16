@@ -1,4 +1,4 @@
-## Ivan Romero
+# [![Ivan Romero](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=500&lines=Ivan+Romero)](https://git.io/typing-svg)
 
 **Systems and Networks Engineering Enthusiast**
 
