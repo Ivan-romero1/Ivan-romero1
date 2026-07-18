@@ -1,4 +1,8 @@
-# [![Ivan Romero](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=650&lines=Hi,+I'm+Ivan+Romero.;Systems+%26+Networks+Engineering+Enthusiast.)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=000000&background=F5F5F5&center=true&vCenter=true&width=400&height=70&border=true&lines=Ivan+Romero" alt="Typing SVG" />
+  </a>
+</p>
 
 **Systems and Networks Engineering Enthusiast**
 
