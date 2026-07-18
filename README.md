@@ -1,9 +1,7 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&width=500&height=70&lines=Ivan+Romero"
-    alt="Typing SVG"
-  />
-</p>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=000000&background=FFFFFF&center=false&vCenter=true&width=350&height=70&lines=Ivan+Romero"
+  alt="Ivan Romero"
+/>
 
 **Systems and Networks Engineering Enthusiast**
 
