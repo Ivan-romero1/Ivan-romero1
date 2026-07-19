@@ -47,6 +47,7 @@ Video Explanations:
 ## Interesting Concepts: 
  #### 1.- [Load Balancing](https://youtu.be/YHYH6RkOdMo)
  #### 2.- [FTP Simulation](https://youtu.be/s-pWb0tXgMg)
+ #### 3.- [HTTPS}(https://youtu.be/omrHYucsVqs)
 
 ## OSI Model: 
 #### 1.- [OSI Model Overview](https://youtu.be/WxlG01S5dds)
